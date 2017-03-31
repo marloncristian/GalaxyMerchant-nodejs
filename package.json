@@ -1,0 +1,18 @@
+{
+  "name": "nodesandbox",
+  "version": "1.0.0",
+  "description": "node sandbox",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marlon cristian pereira",
+  "license": "MIT",
+  "dependencies": {
+    "angularjs": "0.0.1",
+    "chai": "^3.5.0",
+    "ejs": "^2.5.6",
+    "mongojs": "^2.4.0",
+    "unit.js": "^2.0.0"
+  }
+}
